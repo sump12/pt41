@@ -1,0 +1,9 @@
+Building steampunk
+
+See doc/readme-qt.rst for instructions on building steampunk QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of steampunk.
+
+See doc/build-*.txt for instructions on building steampunkd,
+the intended-for-services, no-graphical-interface, reference
+implementation of steampunk.
